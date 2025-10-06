@@ -1,7 +1,7 @@
 # BI-Vizualizations
-Shows a few vizes created by me for different applications. The dashboards were created using power-bi, and backend data is ETL'd using Azure, Fabric and Airbyte for a live connection  - All sensitive and identifiable data has been removed, so the dashboards may appear strange due to editing.
+Shows a few vizes created by me for different business segments - by no means a complete list, but demonstrates a good overarching view of my skill set. The dashboards were created using power-bi, and backend data is ETL'd using Azure, Fabric and Airbyte for a live connection  - All sensitive and identifiable data has been removed, so the dashboards may appear strange due to editing.
 
-**Created for Finance - the dashboard produces an overall view of vendors & terms associated with each. **
+**Created for Finance - the dashboard produces a view for finance to asses vendor performance **
 <img width="1478" height="692" alt="Screenshot 2025-10-05 231144" src="https://github.com/user-attachments/assets/1ce14811-7e8a-4242-bda0-056b76e26447" />
 
 
@@ -9,7 +9,7 @@ Created for Finance - the dashboard identifies and tracks due dates and the asso
 <img width="1513" height="792" alt="Screenshot 2025-10-05 231127" src="https://github.com/user-attachments/assets/3613fc21-3833-4d24-8957-e7889eefb93d" />
 
 
-Created for Operations - The dashboard shows the overall health metrics associated with various inventory metrics (A KPI Health Dashboard). Not shown... The dashboard visualizes the overall health of operations in various categories like inventory, orders coverage etc...
+Created for Operations - The dashboard shows the overall health metrics associated with operational performance. Not shown... The dashboard visualizes the overall health of operations in various categories like inventory, orders coverage etc...
 <img width="1545" height="321" alt="Screenshot 2025-10-05 231053 (1)" src="https://github.com/user-attachments/assets/04314c02-0362-42e7-a2a8-716f0121e5f2" />
 
 
