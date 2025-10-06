@@ -8,4 +8,5 @@ Created for Finance - the dashboard identifies and tracks due dates and the asso
 Created for Operations - The dashboard shows the overall health metrics associated with various inventory metrics (A KPI Health Dashboard). Not shown... The dashboard visualizes the overall health of operations in various categories like inventory, orders coverage etc...
 <img width="1545" height="321" alt="Screenshot 2025-10-05 231053 (1)" src="https://github.com/user-attachments/assets/1a88e51e-5d26-4bb2-a0fc-c918e1301ae5" />
 Created for Operations - The dashboard shows the metrics related to the "health" of orders and feeds into a larger algorithm to calculate scores for each business segment (Finance, Operations, Sales).
-<img width="1508" height="859" alt="Screenshot 2025-10-05 231042" src="https://github.com/user-attachments/assets/886cd287-b30d-408b-b49c-b178e3a1c617" />
+<img width="1508" height="859" alt="Screenshot 2025-10-05 231042" src="https://github.com/user-attachments/assets/c10152c0-63d4-49a8-b88d-13f714ab89ae" />
+
