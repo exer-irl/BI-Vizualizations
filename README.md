@@ -2,8 +2,7 @@
 Shows a few vizes created by me for different applications. The dashboards were created using power-bi, and backend data is ETL'd using Azure, Fabric and Airbyte for a live connection  - All sensitive and identifiable data has been removed, so the dashboards may appear strange due to editing.
 
 **Created for Finance - the dashboard produces an overall view of vendors & terms associated with each. **
-<img width="1556" height="729" alt="Screenshot 2025-10-05 231144" src="https://github.com/user-attachments/assets/6ced5f5d-29db-4b0e-a341-d3fdace01a05" />
-
+<img width="1478" height="692" alt="Screenshot 2025-10-05 231144" src="https://github.com/user-attachments/assets/1ce14811-7e8a-4242-bda0-056b76e26447" />
 
 
 Created for Finance - the dashboard identifies and tracks due dates and the associated terms attached to vendors
