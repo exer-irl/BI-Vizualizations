@@ -17,4 +17,5 @@ Created for Operations - The dashboard shows the overall health metrics associat
 Created for Operations - The dashboard shows the metrics related to the "health" of orders and feeds into a larger algorithm to calculate scores for each business segment (Finance, Operations, Sales).
 <img width="1508" height="859" alt="Screenshot 2025-10-05 231042" src="https://github.com/user-attachments/assets/b7ffe4ff-313c-4fc2-be1b-d34e46e175c8" />
 
-
+Created for Sales - Gives an overall view for health of a customer, and is a customer facing document for sales to review performance alongside the customer
+<img width="1537" height="865" alt="Screenshot 2025-05-27 082523" src="https://github.com/user-attachments/assets/4e3ab186-9622-465e-a22f-c41142a56438" />
